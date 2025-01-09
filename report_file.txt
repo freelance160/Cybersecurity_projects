@@ -1,0 +1,5 @@
+Weak Passwords found:
+Line 2: 123456 (Predefined Weak Password)
+Line 3: password (Predefined Weak Password)
+Line 5: guest (Shorter than 8 characters)
+Line 6: qwerty (Predefined Weak Password)
